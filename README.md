@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @syzzana
-- 📫 LinkedIn: https://de.linkedin.com/in/syzanakajtazaj
-      Email: syzzana@duck.com
+- 📫  Email: syzzana@duck.com
 
 <!---
 syzzana/syzzana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
